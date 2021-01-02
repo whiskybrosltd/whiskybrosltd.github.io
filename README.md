@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# Whisky Bros
 
-You can use the [editor on GitHub](https://github.com/whiskybrosltd/whiskybrosltd.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome, fellow Whisky Bro!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Version 1.0 (February 2021)
 
-### Markdown
+- [ ] How the club works
+- [ ] Account creation and management
+- [ ] Featured Whisky of the Month
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Version 2.0 (April 2021)
 
-```markdown
-Syntax highlighted code block
+- [ ] Bookmark favorite whiskies
+- [ ] Flavor profile visualizations
+- [ ] WOTM nomination and voting
 
-# Header 1
-## Header 2
-### Header 3
+## Version 3.0 (June 2021)
 
-- Bulleted
-- List
+- [ ] Creating a new club chapter
+- [ ] Map of famous distilleries (worldwide)
 
-1. Numbered
-2. List
+## Version 4.0 (September 2021)
 
-**Bold** and _Italic_ and `Code` text
+- [ ] Whisky AI recommendation tool
+- [ ] Guide for chapter presidents
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/whiskybrosltd/whiskybrosltd.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Sláinte!
