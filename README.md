@@ -1,9 +1,10 @@
 # Whisky Bros
 
-Welcome, fellow Whisky Bro!
+Welcome to Whisky Bros!
 
 ## Version 1.0 (February 2021)
 
+- [ ] Startup blog posts (budget, timeline, etc.)
 - [ ] How the club works
 - [ ] Account creation and management
 - [ ] Featured Whisky of the Month
@@ -17,11 +18,18 @@ Welcome, fellow Whisky Bro!
 ## Version 3.0 (June 2021)
 
 - [ ] Creating a new club chapter
+- [ ] Guide for chapter presidents
 - [ ] Map of famous distilleries (worldwide)
 
 ## Version 4.0 (September 2021)
 
+- [ ] Chapter starter kits
+- [ ] Social media
+- [ ] Affiliate links
+- [ ] Gift shop
+
+## Version 5.0 (December 2021)
+
 - [ ] Whisky AI recommendation tool
-- [ ] Guide for chapter presidents
 
 Sláinte!
